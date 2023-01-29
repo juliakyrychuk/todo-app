@@ -6,3 +6,5 @@ go to vet
 clean flat
 go to post office
 buy Christmas tree
+say hello
+fuckkkkkkkkkkkkkkkkkk
