@@ -1,0 +1,7 @@
+<configuration>
+  <applications>
+    <application>
+      https://demo-cloudfresh-yuliia.okta.com/app/exk7qbst8qvGWvBXU697/sso/saml/metadata
+    </application>
+  </applications>
+</configuration>
